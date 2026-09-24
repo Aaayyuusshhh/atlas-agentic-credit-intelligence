@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Never commit secrets or client material
+.env
+.env.*
+*.pem
+*.key
+client-data/
+*.xlsx
+*.docx
