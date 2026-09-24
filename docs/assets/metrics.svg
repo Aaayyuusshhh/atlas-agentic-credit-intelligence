@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img">
+<style>text{font-family:'Inter','SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace} .c{animation:up .9s cubic-bezier(.2,.8,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}</style>
+<defs>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#f5b544"/><stop offset=".55" stop-color="#f08a5d"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="gb" x1="0" x2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<radialGradient id="ga" cx=".82" cy=".1" r=".75"><stop offset="0" stop-color="#f5b544" stop-opacity=".20"/><stop offset="1" stop-color="#f5b544" stop-opacity="0"/></radialGradient>
+<radialGradient id="gc" cx=".05" cy=".9" r=".7"><stop offset="0" stop-color="#3b82f6" stop-opacity=".20"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".05"/></pattern>
+</defs>
+<clipPath id="clip"><rect width="1280" height="400" rx="18"/></clipPath>
+<g clip-path="url(#clip)"><rect width="1280" height="400" fill="#07080f"/><rect width="1280" height="400" fill="url(#dots)"/>
+<rect width="1280" height="400" fill="url(#ga)"/><rect width="1280" height="400" fill="url(#gc)"/>
+<g class="c" style="animation-delay:0.00s"><rect x="48" y="30" width="379" height="156" rx="18" fill="#0d1020" stroke="#1d2233"/>
+<rect x="48" y="30" width="379" height="3" fill="url(#gr)"/>
+<text x="76" y="106" font-size="52" font-weight="900" fill="url(#gr)">35</text>
+<text x="76" y="138" font-size="18" font-weight="700" fill="#eef1fb">report engines</text>
+<text x="76" y="164" font-size="13.5" fill="#8d95ad">one CIN feeds every deliverable</text></g><g class="c" style="animation-delay:0.12s"><rect x="451" y="30" width="379" height="156" rx="18" fill="#0d1020" stroke="#1d2233"/>
+<rect x="451" y="30" width="379" height="3" fill="url(#gr)"/>
+<text x="479" y="106" font-size="52" font-weight="900" fill="url(#gr)">4</text>
+<text x="479" y="138" font-size="18" font-weight="700" fill="#eef1fb">ways to use it</text>
+<text x="479" y="164" font-size="13.5" fill="#8d95ad">web · mobile · iOS app · partner API</text></g><g class="c" style="animation-delay:0.24s"><rect x="853" y="30" width="379" height="156" rx="18" fill="#0d1020" stroke="#1d2233"/>
+<rect x="853" y="30" width="379" height="3" fill="url(#gr)"/>
+<text x="881" y="106" font-size="52" font-weight="900" fill="url(#gr)">24</text>
+<text x="881" y="138" font-size="18" font-weight="700" fill="#eef1fb">bank templates</text>
+<text x="881" y="164" font-size="13.5" fill="#8d95ad">board notes &amp; appraisal formats</text></g><g class="c" style="animation-delay:0.36s"><rect x="48" y="210" width="379" height="156" rx="18" fill="#0d1020" stroke="#1d2233"/>
+<rect x="48" y="210" width="379" height="3" fill="url(#gr)"/>
+<text x="76" y="286" font-size="52" font-weight="900" fill="url(#gr)">639</text>
+<text x="76" y="318" font-size="18" font-weight="700" fill="#eef1fb">automated tests</text>
+<text x="76" y="344" font-size="13.5" fill="#8d95ad">582 Python + 57 Playwright E2E</text></g><g class="c" style="animation-delay:0.48s"><rect x="451" y="210" width="379" height="156" rx="18" fill="#0d1020" stroke="#1d2233"/>
+<rect x="451" y="210" width="379" height="3" fill="url(#gr)"/>
+<text x="479" y="286" font-size="52" font-weight="900" fill="url(#gr)">290K</text>
+<text x="479" y="318" font-size="18" font-weight="700" fill="#eef1fb">lines of code</text>
+<text x="479" y="344" font-size="13.5" fill="#8d95ad">Python · TypeScript · React Native</text></g><g class="c" style="animation-delay:0.60s"><rect x="853" y="210" width="379" height="156" rx="18" fill="#0d1020" stroke="#1d2233"/>
+<rect x="853" y="210" width="379" height="3" fill="url(#gr)"/>
+<text x="881" y="286" font-size="52" font-weight="900" fill="url(#gr)">Mins</text>
+<text x="881" y="318" font-size="18" font-weight="700" fill="#eef1fb">not weeks</text>
+<text x="881" y="344" font-size="13.5" fill="#8d95ad">from CIN to bank-ready credit file</text></g></g><rect x=".5" y=".5" width="1279" height="399" rx="18" fill="none" stroke="#1d2233"/></svg>

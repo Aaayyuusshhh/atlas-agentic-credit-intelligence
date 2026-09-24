@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="536" viewBox="0 0 1280 536" role="img">
+<style>text{font-family:'Inter','SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace} .c{animation:up .7s cubic-bezier(.2,.8,.2,1) both}@keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}</style>
+<defs>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#f5b544"/><stop offset=".55" stop-color="#f08a5d"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="gb" x1="0" x2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<radialGradient id="ga" cx=".82" cy=".1" r=".75"><stop offset="0" stop-color="#f5b544" stop-opacity=".20"/><stop offset="1" stop-color="#f5b544" stop-opacity="0"/></radialGradient>
+<radialGradient id="gc" cx=".05" cy=".9" r=".7"><stop offset="0" stop-color="#3b82f6" stop-opacity=".20"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".05"/></pattern>
+</defs>
+<clipPath id="clip"><rect width="1280" height="536" rx="18"/></clipPath>
+<g clip-path="url(#clip)"><rect width="1280" height="536" fill="#07080f"/><rect width="1280" height="536" fill="url(#dots)"/>
+<rect width="1280" height="536" fill="url(#ga)"/><rect width="1280" height="536" fill="url(#gc)"/>
+<text x="48" y="56" font-size="22" font-weight="800" fill="#eef1fb">The report catalogue</text><text x="48" y="80" font-size="14" fill="#8d95ad">Every engine reads the same normalised data, so one fetch feeds every report</text><g class="c" style="animation-delay:0.00s"><rect x="48" y="100" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="66" y="118" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="86" y="138" font-size="15.5" font-weight="800" fill="#eef1fb">Forensic Deep-Dive</text>
+<text x="86" y="158" font-size="12.5" fill="#8d95ad">13 sections · ~130 checks</text>
+<text x="86" y="177" font-size="10.5" class="mono" fill="#f5b544">DOCX·PDF</text></g><g class="c" style="animation-delay:0.06s"><rect x="348" y="100" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="366" y="118" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="386" y="138" font-size="15.5" font-weight="800" fill="#eef1fb">CMA Report</text>
+<text x="386" y="158" font-size="12.5" fill="#8d95ad">3+3 yrs · MPBF · live formulas</text>
+<text x="386" y="177" font-size="10.5" class="mono" fill="#f5b544">XLSX</text></g><g class="c" style="animation-delay:0.12s"><rect x="648" y="100" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="666" y="118" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="686" y="138" font-size="15.5" font-weight="800" fill="#eef1fb">Bank Board Note</text>
+<text x="686" y="158" font-size="12.5" fill="#8d95ad">24 bank templates · QC-gated</text>
+<text x="686" y="177" font-size="10.5" class="mono" fill="#f5b544">DOCX·PDF</text></g><g class="c" style="animation-delay:0.18s"><rect x="948" y="100" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="966" y="118" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="986" y="138" font-size="15.5" font-weight="800" fill="#eef1fb">Credit Appraisal Memo</text>
+<text x="986" y="158" font-size="12.5" fill="#8d95ad">live, banker-editable</text>
+<text x="986" y="177" font-size="10.5" class="mono" fill="#f5b544">HTML·DOCX</text></g><g class="c" style="animation-delay:0.24s"><rect x="48" y="204" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="66" y="222" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="86" y="242" font-size="15.5" font-weight="800" fill="#eef1fb">TEV Study + Studio</text>
+<text x="86" y="262" font-size="12.5" fill="#8d95ad">5 chapters · draft-vs-analyst FM</text>
+<text x="86" y="281" font-size="10.5" class="mono" fill="#f5b544">DOCX·PDF</text></g><g class="c" style="animation-delay:0.30s"><rect x="348" y="204" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="366" y="222" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="386" y="242" font-size="15.5" font-weight="800" fill="#eef1fb">Equity Valuation</text>
+<text x="386" y="262" font-size="12.5" fill="#8d95ad">DCF + comps · 22-tab model</text>
+<text x="386" y="281" font-size="10.5" class="mono" fill="#f5b544">XLSX·DOCX</text></g><g class="c" style="animation-delay:0.36s"><rect x="648" y="204" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="666" y="222" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="686" y="242" font-size="15.5" font-weight="800" fill="#eef1fb">IPO Readiness</text>
+<text x="686" y="262" font-size="12.5" fill="#8d95ad">SEBI-LODR gaps · GO/NO-GO</text>
+<text x="686" y="281" font-size="10.5" class="mono" fill="#f5b544">DOCX·PDF</text></g><g class="c" style="animation-delay:0.42s"><rect x="948" y="204" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="966" y="222" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="986" y="242" font-size="15.5" font-weight="800" fill="#eef1fb">CCPS · ESOP · PPA</text>
+<text x="986" y="262" font-size="12.5" fill="#8d95ad">9 regulatory valuation types</text>
+<text x="986" y="281" font-size="10.5" class="mono" fill="#f5b544">DOCX·PPTX</text></g><g class="c" style="animation-delay:0.48s"><rect x="48" y="308" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="66" y="326" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="86" y="346" font-size="15.5" font-weight="800" fill="#eef1fb">BackSolve / OPM</text>
+<text x="86" y="366" font-size="12.5" fill="#8d95ad">Black-Scholes breakpoints</text>
+<text x="86" y="385" font-size="10.5" class="mono" fill="#f5b544">DOCX·PDF</text></g><g class="c" style="animation-delay:0.54s"><rect x="348" y="308" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="366" y="326" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="386" y="346" font-size="15.5" font-weight="800" fill="#eef1fb">AML Report</text>
+<text x="386" y="366" font-size="12.5" fill="#8d95ad">22 sections · live screening</text>
+<text x="386" y="385" font-size="10.5" class="mono" fill="#f5b544">DOCX·PDF</text></g><g class="c" style="animation-delay:0.60s"><rect x="648" y="308" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="666" y="326" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="686" y="346" font-size="15.5" font-weight="800" fill="#eef1fb">Sanctions Screening</text>
+<text x="686" y="366" font-size="12.5" fill="#8d95ad">company · directors · UBOs</text>
+<text x="686" y="385" font-size="10.5" class="mono" fill="#f5b544">DOCX·XLSX</text></g><g class="c" style="animation-delay:0.66s"><rect x="948" y="308" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="966" y="326" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="986" y="346" font-size="15.5" font-weight="800" fill="#eef1fb">PEP Screening</text>
+<text x="986" y="366" font-size="12.5" fill="#8d95ad">politically exposed persons</text>
+<text x="986" y="385" font-size="10.5" class="mono" fill="#f5b544">DOCX</text></g><g class="c" style="animation-delay:0.72s"><rect x="48" y="412" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="66" y="430" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="86" y="450" font-size="15.5" font-weight="800" fill="#eef1fb">Advance Legal</text>
+<text x="86" y="470" font-size="12.5" fill="#8d95ad">litigation · charges · MCA</text>
+<text x="86" y="489" font-size="10.5" class="mono" fill="#f5b544">DOCX·PDF</text></g><g class="c" style="animation-delay:0.78s"><rect x="348" y="412" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="366" y="430" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="386" y="450" font-size="15.5" font-weight="800" fill="#eef1fb">Background Check L3</text>
+<text x="386" y="470" font-size="12.5" fill="#8d95ad">11 risk categories · EDD</text>
+<text x="386" y="489" font-size="10.5" class="mono" fill="#f5b544">DOCX</text></g><g class="c" style="animation-delay:0.84s"><rect x="648" y="412" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="666" y="430" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="686" y="450" font-size="15.5" font-weight="800" fill="#eef1fb">Pitch / Fund-raise Deck</text>
+<text x="686" y="470" font-size="12.5" fill="#8d95ad">12–30 section IB decks</text>
+<text x="686" y="489" font-size="10.5" class="mono" fill="#f5b544">PPTX·PDF</text></g><g class="c" style="animation-delay:0.90s"><rect x="948" y="412" width="284" height="88" rx="14" fill="#0d1020" stroke="#1d2233"/>
+<rect x="966" y="430" width="6" height="52" rx="3" fill="url(#gr)"/>
+<text x="986" y="450" font-size="15.5" font-weight="800" fill="#eef1fb">Template Fill</text>
+<text x="986" y="470" font-size="12.5" fill="#8d95ad">your PPTX, your branding</text>
+<text x="986" y="489" font-size="10.5" class="mono" fill="#f5b544">PPTX</text></g></g><rect x=".5" y=".5" width="1279" height="535" rx="18" fill="none" stroke="#1d2233"/></svg>
